@@ -24,14 +24,14 @@ Un conversor de monedas de línea de comandos desarrollado en **Java 17**, aplic
 ---
 
 ## 📦 Estructura del Proyecto
-
+```
 conversorMonedas/
 ├── main # Clase Main - punto de entrada
 ├── api/ # Lógica de conexión con la API
 ├── logic/ # Conversión de monedas
 ├── models/ # Representación del JSON (modelo)
 └── README.md
-
+```
 
 ---
 
@@ -54,7 +54,7 @@ conversorMonedas/
 ---
 
 ## 📈 Ejemplo de uso
-
+```
 ===== CONVERSOR DE MONEDAS =====
 1 - Peso argentino (ARS) → Dólar (USD)
 2 - Dólar (USD) → Peso argentino (ARS)
@@ -66,7 +66,7 @@ conversorMonedas/
 Elegí una opción: 2
 Ingresá el monto a convertir: 100
 100 USD = 90000 ARS
-
+```
 
 
 ---
